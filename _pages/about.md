@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Про нас
 permalink: /about/
 image: 01.jpg
 ---

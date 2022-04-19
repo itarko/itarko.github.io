@@ -5,13 +5,13 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/">Попередні дописи</a>
+        <a class="previous-link" href="{{ site.baseurl }}/">Попередні записи</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Попередні дописи</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">Попередні записи</a>
       {% endif %}
       
       {% else %}
-        <span class="disabled">Попередні дописи</span>
+        <span class="disabled">Попередні записи</span>
       {% endif %}
 
       <div class="counter-box">
@@ -33,9 +33,9 @@
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Наступні дописи</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">Наступні записи</a>
       {% else %}
-        <span class="disabled">Наступні дописи</span>
+        <span class="disabled">Наступні записи</span>
       {% endif %}
 
 

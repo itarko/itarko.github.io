@@ -131,7 +131,7 @@ hr {
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 .icon-bar {
   position: fixed;
-  top: 30%; right: 0px;
+  top: 50%; right: 0px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -157,12 +157,7 @@ hr {
   color: white;
 }
 
-.control-phone {
-  background: #55ACEE;
-  color: white;
-}
-
-.phone-square {
+.phone {
   background: #007bb5;
   color: white;
 }

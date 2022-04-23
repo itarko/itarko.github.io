@@ -6,9 +6,9 @@
 
       a {
         font-size: 30px;
-        color: #005BBB;
+        color: $gray;
         &:hover {
-          color: #000;
+          color: $dark;
         }
       }
     }

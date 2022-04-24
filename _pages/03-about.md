@@ -2,7 +2,6 @@
 layout: page
 title: Про нас
 permalink: /03-about/
-image: 07.jpg
 ---
 <html>
 <head>
@@ -67,45 +66,41 @@ html {
 </head>
 <body>
 
-<h2>Responsive "Meet The Team" Section</h2>
-<p>Resize the browser window to see the effect.</p>
-<br>
-
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="team1.jpg" alt="Jane" style="width:100%">
+      <img src="/about/artem.jpg" alt="Артем" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Артем</h2>
+        <p class="title">Оператор</p>
+        <p>Надання комплексної послуги і максимально якісний сервіс.</p>
+        <p>artem@tarko.pp.ua</p>
+        <p><button class="button">+38 096-100-10-10</button></p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="team2.jpg" alt="Mike" style="width:100%">
+      <img src="/about/bohdan.jpg" alt="Богдан" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Богдан</h2>
+        <p class="title">Оператор</p>
+        <p>Надання комплексної послуги і максимально якісний сервіс.</p>
+        <p>bohdan@tarko.pp.ua</p>
+        <p><button class="button">+38 096-100-10-10</button></p>
       </div>
     </div>
   </div>
   <div class="column">
     <div class="card">
-      <img src="team3.jpg" alt="John" style="width:100%">
+      <img src="/about/dmytro.jpg" alt="Дмитро" style="width:100%">
       <div class="container">
-        <h2>HTML CSS</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Дмитро</h2>
+        <p class="title">Оператор</p>
+        <p>Надання комплексної послуги і максимально якісний сервіс.</p>
+        <p>dmytro@tarko.pp.ua</p>
+        <p><button class="button">+38 096-100-10-10</button></p>
       </div>
     </div>
   </div>

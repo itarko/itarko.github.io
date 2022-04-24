@@ -69,7 +69,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/about/artem.jpg" alt="Артем" style="width:100%">
+      <img src="/images/about/artem.jpg" alt="Артем" style="width:100%">
       <div class="container">
         <h2>Артем</h2>
         <p class="title">Оператор</p>
@@ -82,7 +82,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/about/bohdan.jpg" alt="Богдан" style="width:100%">
+      <img src="/images/about/bohdan.jpg" alt="Богдан" style="width:100%">
       <div class="container">
         <h2>Богдан</h2>
         <p class="title">Оператор</p>
@@ -94,7 +94,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="/about/dmytro.jpg" alt="Дмитро" style="width:100%">
+      <img src="/images/about/dmytro.jpg" alt="Дмитро" style="width:100%">
       <div class="container">
         <h2>Дмитро</h2>
         <p class="title">Оператор</p>

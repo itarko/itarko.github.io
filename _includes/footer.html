@@ -20,24 +20,11 @@
 <button class="btn default">Оплата</button>
 <button class="btn default">Доставка</button>
 <button class="btn default">Повернення</button>
-<button class="btn default">Акції</button>
- <br>    
+<button class="btn default">Акції</button> 
 </body>
-   
 <!-- BeginButtons -->  
   
-  <div class="container">
-
-    {% if site.data.settings.mailchimp %}
-    {% include subscribe.html %}
-    {% else %} {% endif %}
-
-    {% if site.data.settings.instagram %}
-    {% include instagram.html %}
-    {% else %} {% endif %}
-
-    {% include contact-link.html %}
-
+<div class="container">
     <div class="copyright">Авторське право &copy; {{site.time | date: '%Y'}} "Tarko" <br> Всі Права Захищено.</div>
 </div>
 </footer>
